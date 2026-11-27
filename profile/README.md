@@ -24,7 +24,7 @@ Fluixi is a compiler-native reactive framework for TypeScript. The compiler know
 | [**examples**](https://github.com/fluixi/examples) | Small runnable apps, each ready to open on StackBlitz. |
 | [**icons**](https://github.com/fluixi/icons) | Icon sets as SVG strings, JSX components, sprites and CDN bundles. |
 | [**@fluixi-ui**](https://www.npmjs.com/org/fluixi-ui) | Components with switchable skins. |
-| [**@fluixi/forms**](https://www.npmjs.com/package/@fluixi/forms) | Typed forms with schema validation. |
+| [**forms**](https://github.com/fluixi/forms) | Reactive forms with sync and async validation and Standard Schema, Zod or Valibot schemas. |
 
 ## Get started
 
